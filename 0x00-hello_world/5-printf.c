@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main-entry point for the program.
+ * main-entry point for the program
+ *
  * Description: this program reads a file
  * Return:0 success
  */
