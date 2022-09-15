@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * _islower - Short description single line
@@ -14,6 +14,7 @@ int _islower(int c)
 	}
 
 	else
+
 	{
 		return (0);
 	}
